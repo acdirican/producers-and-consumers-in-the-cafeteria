@@ -18,4 +18,4 @@ To do it, we regulate the access of the table using monitors or synchronized blo
 In this way, it is guaranteed no producer or consumer can acces the table at the same time. 
 Therefore, a smooth concurrent access of food production and consumtion is maintained.
 
-In short, the idea is "don't touch the table at the same time :-)". Or better, "no concurrent access to the shared resource".
+In short, the idea is "don't let them touch the table at the same time :-)". Or better, "no concurrent access to the shared resource".
