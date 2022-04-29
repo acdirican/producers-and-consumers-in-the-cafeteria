@@ -1,4 +1,4 @@
-# Producers and- Consumers in the Cafeteria
+# Producers and Consumers in the Cafeteria
 
 This project is an implementation of producer-consumer problem in a cafeteria scenario using monitors (synchronized).
 
